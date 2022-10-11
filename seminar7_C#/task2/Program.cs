@@ -1,4 +1,5 @@
-﻿void PrintArray(int[,] matr)
+﻿
+void PrintArray(int[,] matr)
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
