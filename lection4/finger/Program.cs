@@ -53,6 +53,6 @@ void FillFinger(int row, int col)
 
 
 }
-// FillFinger(13,13);
+FillFinger(13,13);
 
-// PrintFinger(finger);
+PrintFinger(finger);
